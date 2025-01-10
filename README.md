@@ -1,10 +1,3 @@
-# USA-Sales-Data-Analysis
-Insights into Trends, Regional Performance, and Top Products
-
-Here's a GitHub-style README file: 
-
----
-
 # USA Sales Data Analysis
 
 ## Description
